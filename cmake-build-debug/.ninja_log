@@ -1,0 +1,20 @@
+# ninja log v6
+1	661	1743533874119619716	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	83df5107d4c1a0b0
+2	678	1743533874120590428	CMakeFiles/PR3_3_rec_tests.dir/tests/tests.cpp.o	b1598c4c2f16aebf
+1	1051	1743533874119489763	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	75bc936e98cb9e75
+1	1656	1743533874119192858	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	f8c20ca89a10b709
+5	70	1743533882628736675	lib/libgtest.a	b51b69e6de22023b
+71	110	1743533882693841629	lib/libgtest_main.a	ddd85a377c936fa9
+70	124	1743533882693519350	lib/libgmock.a	c8c98fe986cb389b
+6	385	1743533882629175782	CMakeFiles/PR3_3_rec.dir/functions/functions.cpp.o	b42a74c282ed265a
+6	386	1743533882629298486	CMakeFiles/PR3_3_rec_tests.dir/functions/functions.cpp.o	ba3dae1cb68c72fb
+6	569	1743533882629785258	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	1453d6caa6ee05e5
+13	46	1743533926779653200	lib/libgmock_main.a	c7b38932d055d06e
+13	474	1743533926779521497	CMakeFiles/PR3_3_rec_tests.dir/functions/functions.cpp.o	ba3dae1cb68c72fb
+12	475	1743533926778705405	CMakeFiles/PR3_3_rec.dir/main.cpp.o	2740bcd4fcc9a71c
+13	476	1743533926779251550	CMakeFiles/PR3_3_rec.dir/functions/functions.cpp.o	b42a74c282ed265a
+476	581	1743533927242390183	PR3_3_rec	13099e4101a900d9
+13	617	1743533926779397335	CMakeFiles/PR3_3_rec_tests.dir/tests/tests.cpp.o	b1598c4c2f16aebf
+618	1328	1743533928092940085	PR3_3_rec_tests	d6e4505bfb309949
+618	1328	1743533928092940085	PR3_3_rec_tests[1]_tests.cmake	d6e4505bfb309949
+618	1328	1743533928092940085	/Users/yura_kulakovskyi/Documents/C++/TeamWork/PR3/PR3_3/PR3_3_rec/cmake-build-debug/PR3_3_rec_tests[1]_tests.cmake	d6e4505bfb309949
